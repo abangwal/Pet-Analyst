@@ -4,4 +4,4 @@
 ![](imgs/pipeline.png)
 
 ## Results
-<video src='imgs/srf.mp4' width=180/>
+<video src='https://github.com/ashish-2005/Pet-Analyst/assets/71766106/af59f8fd-dd62-41d8-9723-581a80c6159c'>
